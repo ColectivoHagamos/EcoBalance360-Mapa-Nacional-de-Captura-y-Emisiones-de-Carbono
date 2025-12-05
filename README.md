@@ -1,4 +1,14 @@
+<div align="center">
+<a href="https://www.canva.com/design/DAG6as54OsI/2qaZDzIoYMY8KwqDUjZKKg/view?utm_content=DAG6as54OsI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa642ada9e#1">
+<img src="https://github.com/ColectivoHagamos/EcoBalance360-Mapa-Nacional-de-Captura-y-Emisiones-de-Carbono/blob/main/Doc/EcoBalance360.png?r=duu" width="85%" align="center" alt="EcoBalance360"/>
+</a>
+
+
+<!--
 # EcoBalance360 🌱
+-->
+
+</br>
 
 **Mapa Nacional de Captura y Emisiones de Carbono**
 
@@ -9,7 +19,9 @@ Herramienta de analítica territorial para visualizar y simular el balance de ca
 [![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org/)
 [![Estado](https://img.shields.io/badge/Estado-Producción-brightgreen.svg)]()
 
-**[Ver Aplicación en Vivo](https://v0-carbon-balance-app-2.vercel.app)**
+**[https://colectivohagamos.com](https://colectivohagamos.com)**
+
+</div>
 
 ---
 
