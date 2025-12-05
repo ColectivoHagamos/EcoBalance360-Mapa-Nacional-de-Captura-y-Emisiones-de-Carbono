@@ -519,9 +519,12 @@ Next.js 15
 
 ## Equipo
 
-### Colectivo HAGAMOS 🤗💪🏾🌱🤓
+<div align="center">
+  
+<img src="https://github.com/ColectivoHagamos/EcoBalance360-Mapa-Nacional-de-Captura-y-Emisiones-de-Carbono/blob/main/Doc/equipo.png" width="100%" align="center" alt="EcoBalance360"/>
+</div>
 
-Colectivo que promueve la actualización de la identidad, la educación para la paz y el respeto por la diversidad y el ambiente.
+</br>
 
 Este proyecto fue desarrollado en el marco del reto **EcoBalance360** del concurso **Datos al Ecosistema 2025** organizado por el Ministerio de Tecnologías de la Información y las Comunicaciones de Colombia (MinTIC).
 
