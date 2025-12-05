@@ -1,8 +1,8 @@
 <div align="center">
-<a href="https://www.canva.com/design/DAG6as54OsI/2qaZDzIoYMY8KwqDUjZKKg/view?utm_content=DAG6as54OsI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa642ada9e#1">
+<a href="https://www.canva.com/design/DAG6as54OsI/2qaZDzIoYMY8KwqDUjZKKg/view?utm_content=DAG6as54OsI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa642ada9e#1" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/ColectivoHagamos/EcoBalance360-Mapa-Nacional-de-Captura-y-Emisiones-de-Carbono/blob/main/Doc/EcoBalance360.png?r=duu" width="85%" align="center" alt="EcoBalance360"/>
 </a>
-
+</div>
 
 <!--
 # EcoBalance360 🌱
@@ -446,7 +446,7 @@ npm run dev
 
 La aplicación está desplegada en Vercel:
 
-**[https://v0-carbon-balance-app-2.vercel.app](https://v0-carbon-balance-app-2.vercel.app)**
+**[https://colectivohagamos.com](https://colectivohagamos.com)**
 
 ---
 
@@ -579,6 +579,6 @@ copias o partes sustanciales del Software.
 </p>
 
 <p align="center">
-  <a href="https://v0-carbon-balance-app-2.vercel.app">Ver Aplicación</a> •
-  <a href="https://github.com/ColectivoHagamos">Colectivo HAGAMOS</a>
+  <a href="https://colectivohagamos.com"target="_blank" rel="noopener noreferrer">Ver Aplicación</a> •
+  <a href="https://www.instagram.com/hagamoses/" target="_blank" rel="noopener noreferrer">Colectivo HAGAMOS</a>
 </p>
